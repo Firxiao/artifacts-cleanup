@@ -1,0 +1,5 @@
+# cluster   repo           path       relative_date   dryrun
+test         generic-local  test       5d               True
+cluster01    generic-local  test       5d               True
+cluster03    generic-local  test       5d               True
+cluster02    generic-local  test       5d               True
